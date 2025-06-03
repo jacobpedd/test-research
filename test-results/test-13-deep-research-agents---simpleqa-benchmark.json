@@ -1,0 +1,18 @@
+{
+  "testId": 13,
+  "testName": "Deep Research Agents - SimpleQA Benchmark",
+  "timestamp": "2025-06-03T05:00:27.131Z",
+  "taskId": "01jwt2jqpv8wsbx0zwr3zf19jk",
+  "instructions": "Research deep research agents and their best SimpleQA benchmark scores. For each agent: model name, company, score, date tested, and result URL.",
+  "result": {
+    "agents": [
+      {
+        "model": "Memory Networks (ensemble)",
+        "company": "Facebook AI Research (FAIR)",
+        "score": 0.936,
+        "date": "2017-06-01",
+        "resultUrl": "https://paperswithcode.com/sota/question-answering-on-simplequestions"
+      }
+    ]
+  }
+}

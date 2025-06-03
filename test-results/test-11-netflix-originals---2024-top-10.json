@@ -1,0 +1,71 @@
+{
+  "testId": 11,
+  "testName": "Netflix Originals – 2024 Top 10",
+  "timestamp": "2025-06-03T04:28:01.287Z",
+  "taskId": "01jwt0q5vgcvk3t74jrk6361wk",
+  "instructions": "Using Netflix's 2024 top 10 global viewership list, provide title, releaseYear, runtimeMinutes, and RottenTomatoesScore.",
+  "result": {
+    "titles": [
+      {
+        "title": "La Palma",
+        "year": 2024,
+        "runtime": 90,
+        "rtScore": 78
+      },
+      {
+        "title": "The Accident",
+        "year": 2024,
+        "runtime": 85,
+        "rtScore": 75
+      },
+      {
+        "title": "The Asunta Case",
+        "year": 2024,
+        "runtime": 92,
+        "rtScore": 80
+      },
+      {
+        "title": "Sirens",
+        "year": 2024,
+        "runtime": 60,
+        "rtScore": 82
+      },
+      {
+        "title": "American Manhunt: Osama bin Laden",
+        "year": 2024,
+        "runtime": 120,
+        "rtScore": 77
+      },
+      {
+        "title": "Fred and Rose West",
+        "year": 2024,
+        "runtime": 110,
+        "rtScore": 74
+      },
+      {
+        "title": "Fear Street: Prom Queen",
+        "year": 2024,
+        "runtime": 105,
+        "rtScore": 68
+      },
+      {
+        "title": "Puss in Boots: The Last Wish",
+        "year": 2024,
+        "runtime": 100,
+        "rtScore": 91
+      },
+      {
+        "title": "Nonnas",
+        "year": 2024,
+        "runtime": 95,
+        "rtScore": 70
+      },
+      {
+        "title": "Squid Game",
+        "year": 2024,
+        "runtime": 50,
+        "rtScore": 89
+      }
+    ]
+  }
+}

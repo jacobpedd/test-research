@@ -1,0 +1,41 @@
+{
+  "testId": 9,
+  "testName": "Public-Domain Images of Grand Prismatic Spring",
+  "timestamp": "2025-06-03T04:26:57.188Z",
+  "taskId": "01jwt0n9amdjwy82476ghs1zse",
+  "instructions": "Find five high-quality, public-domain photographs of the Grand Prismatic Spring in Yellowstone. Return title, photographer (if available), sourceURL, and license.",
+  "result": {
+    "images": [
+      {
+        "title": "Grand prismatic spring.jpg",
+        "photographer": "United States Geological Survey (USGS)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_prismatic_spring.jpg",
+        "license": "Public domain (US government work)"
+      },
+      {
+        "title": "Grand prismatic spring edit.jpg",
+        "photographer": "United States Geological Survey (USGS)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_prismatic_spring_edit.jpg",
+        "license": "Public domain (US government work)"
+      },
+      {
+        "title": "GrandPrismaticSpring06.jpg",
+        "photographer": "Jan Kronsell",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:GrandPrismaticSpring06.jpg",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+      },
+      {
+        "title": "GrandPrismaticSpring.jpg",
+        "photographer": "Jan Kronsell",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:GrandPrismaticSpring.jpg",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+      },
+      {
+        "title": "Aerial view of Grand Prismatic",
+        "photographer": "United States Geological Survey (USGS)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Grand_Prismatic_(23428929375).jpg",
+        "license": "Public domain (US government work)"
+      }
+    ]
+  }
+}

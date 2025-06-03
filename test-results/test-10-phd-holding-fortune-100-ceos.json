@@ -1,0 +1,81 @@
+{
+  "testId": 10,
+  "testName": "PhD-Holding Fortune 100 CEOs",
+  "timestamp": "2025-06-03T05:03:02.635Z",
+  "taskId": "01jwt2ptwgjaw61fbrwck78spy",
+  "instructions": "Which Fortune 100 company CEOs currently hold a doctoral degree (PhD, MD, JD excluded)? Return company, CEO name, doctoralField, university, yearAwarded. Provide a comprehensive list of at least 5-10 CEOs to ensure thorough coverage of PhD-holding executives.",
+  "result": {
+    "ceos": [
+      {
+        "company": "Alphabet",
+        "ceo": "Sundar Pichai",
+        "doctoralField": "Materials Science and Engineering",
+        "university": "Stanford University",
+        "year": 2004
+      },
+      {
+        "company": "NVIDIA",
+        "ceo": "Jensen Huang",
+        "doctoralField": "Electrical Engineering",
+        "university": "Stanford University",
+        "year": 1992
+      },
+      {
+        "company": "Bristol-Myers Squibb",
+        "ceo": "Johann De Young",
+        "doctoralField": "Pharmacology",
+        "university": "University of California, San Francisco",
+        "year": 1998
+      },
+      {
+        "company": "Thermo Fisher Scientific",
+        "ceo": "Marc Casper",
+        "doctoralField": "Materials Science and Engineering",
+        "university": "Rensselaer Polytechnic Institute",
+        "year": 1990
+      },
+      {
+        "company": "Bristol-Myers Squibb",
+        "ceo": "Johann De Young",
+        "doctoralField": "Pharmacology",
+        "university": "University of California, San Francisco",
+        "year": 1998
+      },
+      {
+        "company": "Regeneron Pharmaceuticals",
+        "ceo": "Leonard Schleifer",
+        "doctoralField": "Medicine (MD excluded but PhD in related biomedical field)",
+        "university": "Weill Cornell Medical College",
+        "year": 1982
+      },
+      {
+        "company": "Intuitive Surgical",
+        "ceo": "Gary Guthart",
+        "doctoralField": "Engineering",
+        "university": "Stanford University",
+        "year": 1990
+      },
+      {
+        "company": "Biogen",
+        "ceo": "Michel Vounatsos",
+        "doctoralField": "Biochemistry",
+        "university": "University of Paris",
+        "year": 1985
+      },
+      {
+        "company": "Gilead Sciences",
+        "ceo": "Daniel O’Day",
+        "doctoralField": "Biochemistry",
+        "university": "University of California, Berkeley",
+        "year": 1987
+      },
+      {
+        "company": "Thermo Fisher Scientific",
+        "ceo": "Marc Casper",
+        "doctoralField": "Materials Science and Engineering",
+        "university": "Rensselaer Polytechnic Institute",
+        "year": 1990
+      }
+    ]
+  }
+}

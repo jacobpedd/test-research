@@ -1,0 +1,16 @@
+{
+  "name": "test-research",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Test script for Exa research API",
+  "main": "test-research.js",
+  "scripts": {
+    "test": "node test-research.js"
+  },
+  "dependencies": {
+    "exa-js": "^1.8.0",
+    "zod": "^3.23.8",
+    "outdent": "^0.8.0",
+    "dotenv": "^16.4.5"
+  }
+}

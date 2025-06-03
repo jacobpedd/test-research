@@ -1,0 +1,39 @@
+{
+  "testId": 7,
+  "testName": "Human Coronaviruses Classification (Enum)",
+  "timestamp": "2025-06-03T04:25:50.172Z",
+  "taskId": "01jwt0k2r67r4641zmbxg7e4g7",
+  "instructions": "List all known human-infecting coronaviruses and classify each as 'Common Cold' or 'Serious' based on typical disease severity.",
+  "result": {
+    "viruses": [
+      {
+        "virus": "HCoV-229E",
+        "severityClass": "Common Cold"
+      },
+      {
+        "virus": "HCoV-NL63",
+        "severityClass": "Common Cold"
+      },
+      {
+        "virus": "HCoV-OC43",
+        "severityClass": "Common Cold"
+      },
+      {
+        "virus": "HCoV-HKU1",
+        "severityClass": "Common Cold"
+      },
+      {
+        "virus": "SARS-CoV",
+        "severityClass": "Serious"
+      },
+      {
+        "virus": "MERS-CoV",
+        "severityClass": "Serious"
+      },
+      {
+        "virus": "SARS-CoV-2",
+        "severityClass": "Serious"
+      }
+    ]
+  }
+}

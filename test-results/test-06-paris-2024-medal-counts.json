@@ -1,0 +1,101 @@
+{
+  "testId": 6,
+  "testName": "Paris 2024 Medal Counts",
+  "timestamp": "2025-06-03T04:31:53.467Z",
+  "taskId": "01jwt0xxvcr1kp4dfsnmf9bfmp",
+  "instructions": "Summarize medal results for Paris 2024. For each country, list totalGold, totalSilver, totalBronze, topAthleteName, topAthleteSport, and topAthletemedals. Limit to the 10 highest-ranking countries.",
+  "result": {
+    "countries": [
+      {
+        "country": "United States",
+        "gold": 40,
+        "silver": 44,
+        "bronze": 43,
+        "topAthleteName": "Simone Biles",
+        "topAthleteSport": "Gymnastics",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "China",
+        "gold": 40,
+        "silver": 27,
+        "bronze": 24,
+        "topAthleteName": "Yang Qian",
+        "topAthleteSport": "Shooting",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "Japan",
+        "gold": 20,
+        "silver": 14,
+        "bronze": 17,
+        "topAthleteName": "Shohei Ohtani",
+        "topAthleteSport": "Baseball",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "Great Britain",
+        "gold": 22,
+        "silver": 21,
+        "bronze": 22,
+        "topAthleteName": "Tom Daley",
+        "topAthleteSport": "Diving",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "Australia",
+        "gold": 18,
+        "silver": 15,
+        "bronze": 17,
+        "topAthleteName": "Ariarne Titmus",
+        "topAthleteSport": "Swimming",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "France",
+        "gold": 16,
+        "silver": 15,
+        "bronze": 17,
+        "topAthleteName": "Léon Marchand",
+        "topAthleteSport": "Swimming",
+        "topAthletemedals": 4
+      },
+      {
+        "country": "Germany",
+        "gold": 12,
+        "silver": 10,
+        "bronze": 15,
+        "topAthleteName": "Miriam Welte",
+        "topAthleteSport": "Cycling",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "Italy",
+        "gold": 10,
+        "silver": 10,
+        "bronze": 20,
+        "topAthleteName": "Marcell Jacobs",
+        "topAthleteSport": "Athletics",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "Netherlands",
+        "gold": 10,
+        "silver": 12,
+        "bronze": 14,
+        "topAthleteName": "Sifan Hassan",
+        "topAthleteSport": "Athletics",
+        "topAthletemedals": 3
+      },
+      {
+        "country": "Canada",
+        "gold": 7,
+        "silver": 10,
+        "bronze": 11,
+        "topAthleteName": "Andre De Grasse",
+        "topAthleteSport": "Athletics",
+        "topAthletemedals": 3
+      }
+    ]
+  }
+}

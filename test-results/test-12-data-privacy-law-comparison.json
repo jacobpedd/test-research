@@ -1,0 +1,35 @@
+{
+  "testId": 12,
+  "testName": "Data-Privacy Law Comparison",
+  "timestamp": "2025-06-03T04:28:39.532Z",
+  "taskId": "01jwt0qzhmj2t09ragp47absbn",
+  "instructions": "Compare GDPR (EU), CCPA (California), and PIPL (China) on five compliance elements: dataSubjectRights, lawfulBasis, breachNotificationWindowDays, extraterritorialScope, maxAdminFineUsd. Return an array sorted by law.",
+  "result": {
+    "laws": [
+      {
+        "law": "CCPA (California)",
+        "dataSubjectRights": "Right to know, right to delete, right to opt-out of sale, right to non-discrimination",
+        "lawfulBasis": "No explicit lawful basis required; focuses on consumer rights and opt-out mechanisms",
+        "breachWindowDays": 45,
+        "extraterritorial": true,
+        "maxFineUsd": 7500
+      },
+      {
+        "law": "GDPR (EU)",
+        "dataSubjectRights": "Right to access, right to rectification, right to erasure, right to restrict processing, right to data portability, right to object, rights related to automated decision making",
+        "lawfulBasis": "Consent, contract, legal obligation, vital interests, public task, legitimate interests",
+        "breachWindowDays": 72,
+        "extraterritorial": true,
+        "maxFineUsd": 24000000
+      },
+      {
+        "law": "PIPL (China)",
+        "dataSubjectRights": "Right to access, right to correct, right to delete, right to data portability, right to withdraw consent",
+        "lawfulBasis": "Consent, contract necessity, legal obligation, public interest, legitimate interest",
+        "breachWindowDays": 72,
+        "extraterritorial": true,
+        "maxFineUsd": 7700000
+      }
+    ]
+  }
+}

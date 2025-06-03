@@ -1,0 +1,32 @@
+{
+  "testId": 4,
+  "testName": "Anthropic Funding Rounds",
+  "timestamp": "2025-06-03T04:33:57.795Z",
+  "taskId": "01jwt122qtk51n0tfgqaxvmjjq",
+  "instructions": "Create a table of Anthropic's funding rounds. For each round: close date, round label, amount USD, leadInvestor1, leadInvestor2.",
+  "result": {
+    "rounds": [
+      {
+        "date": "2023-05-23",
+        "round": "Series C",
+        "amountUsd": 450000000,
+        "leadInvestor1": "Spark Capital",
+        "leadInvestor2": "Google"
+      },
+      {
+        "date": "2024-09-01",
+        "round": "Debt/credit facility",
+        "amountUsd": 2500000000,
+        "leadInvestor1": "Undisclosed lenders",
+        "leadInvestor2": ""
+      },
+      {
+        "date": "2025-02-24",
+        "round": "Series E",
+        "amountUsd": 3500000000,
+        "leadInvestor1": "Lightspeed Venture Partners",
+        "leadInvestor2": ""
+      }
+    ]
+  }
+}

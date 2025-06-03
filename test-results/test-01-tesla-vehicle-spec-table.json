@@ -1,0 +1,46 @@
+{
+  "testId": 1,
+  "testName": "Tesla Vehicle Spec Table",
+  "timestamp": "2025-06-03T04:23:36.319Z",
+  "taskId": "01jwt0ez6387rxtsn835fc97sx",
+  "instructions": "Create a table of Tesla vehicles currently for sale (Model 3, Y, S, X, Cybertruck). For each: body style, base MSRP USD, EPA range miles, and first delivery date.",
+  "result": {
+    "vehicles": [
+      {
+        "model": "Model 3",
+        "bodyStyle": "Sedan",
+        "baseMsrpUsd": 42990,
+        "epaRangeMiles": 272,
+        "firstDelivery": "July 2017"
+      },
+      {
+        "model": "Model Y",
+        "bodyStyle": "SUV",
+        "baseMsrpUsd": 51990,
+        "epaRangeMiles": 330,
+        "firstDelivery": "March 2020"
+      },
+      {
+        "model": "Model S",
+        "bodyStyle": "Sedan",
+        "baseMsrpUsd": 89990,
+        "epaRangeMiles": 348,
+        "firstDelivery": "June 2012"
+      },
+      {
+        "model": "Model X",
+        "bodyStyle": "SUV",
+        "baseMsrpUsd": 99990,
+        "epaRangeMiles": 348,
+        "firstDelivery": "September 2015"
+      },
+      {
+        "model": "Cybertruck",
+        "bodyStyle": "Pickup Truck",
+        "baseMsrpUsd": 49990,
+        "epaRangeMiles": 250,
+        "firstDelivery": "Late 2023"
+      }
+    ]
+  }
+}

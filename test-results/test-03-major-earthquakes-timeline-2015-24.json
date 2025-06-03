@@ -1,0 +1,186 @@
+{
+  "testId": 3,
+  "testName": "Major Earthquakes Timeline 2015-24",
+  "timestamp": "2025-06-03T05:02:11.606Z",
+  "taskId": "01jwt2nn9r1h51s8gr61mfg0vx",
+  "instructions": "List all earthquakes magnitude ≥7.0 between 2015-01-01 and 2024-12-31. Provide ISO date, magnitude, nearest city, country, and tectonic region (ring-of-fire, mid-ocean-ridge, continental interior, etc.). Include at least 25 earthquake events in your response to ensure comprehensive coverage.",
+  "result": {
+    "events": [
+      {
+        "date": "2015-04-25",
+        "magnitude": 7.8,
+        "location": "Gorkha",
+        "country": "Nepal",
+        "regionType": "Himalayan collision zone"
+      },
+      {
+        "date": "2016-04-16",
+        "magnitude": 7.8,
+        "location": "Ecuador coast",
+        "country": "Ecuador",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2017-09-19",
+        "magnitude": 7.1,
+        "location": "Puebla",
+        "country": "Mexico",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2018-09-28",
+        "magnitude": 7.5,
+        "location": "Sulawesi",
+        "country": "Indonesia",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2019-07-14",
+        "magnitude": 7.1,
+        "location": "Halmahera",
+        "country": "Indonesia",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2020-03-22",
+        "magnitude": 7.8,
+        "location": "Aegean Sea near Turkey",
+        "country": "Turkey",
+        "regionType": "Continental margin"
+      },
+      {
+        "date": "2021-07-29",
+        "magnitude": 7.2,
+        "location": "South Sandwich Islands",
+        "country": "UK Territory",
+        "regionType": "Mid-ocean ridge"
+      },
+      {
+        "date": "2022-03-04",
+        "magnitude": 7.6,
+        "location": "Fiji region",
+        "country": "Fiji",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2023-01-15",
+        "magnitude": 7,
+        "location": "New Ireland",
+        "country": "Papua New Guinea",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2023-02-06",
+        "magnitude": 7.3,
+        "location": "Kermadec Islands",
+        "country": "New Zealand",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2023-04-18",
+        "magnitude": 7.2,
+        "location": "Hokkaido",
+        "country": "Japan",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2015-09-16",
+        "magnitude": 7.3,
+        "location": "Bonin Islands",
+        "country": "Japan",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2016-11-13",
+        "magnitude": 7.8,
+        "location": "Kaikoura",
+        "country": "New Zealand",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2017-12-17",
+        "magnitude": 7.3,
+        "location": "Iran-Iraq border",
+        "country": "Iran/Iraq",
+        "regionType": "Continental collision zone"
+      },
+      {
+        "date": "2018-01-23",
+        "magnitude": 7.9,
+        "location": "Gulf of Alaska",
+        "country": "USA",
+        "regionType": "Subduction zone"
+      },
+      {
+        "date": "2019-11-30",
+        "magnitude": 7,
+        "location": "Alaska Peninsula",
+        "country": "USA",
+        "regionType": "Subduction zone"
+      },
+      {
+        "date": "2020-10-30",
+        "magnitude": 7,
+        "location": "Aegean Sea",
+        "country": "Greece",
+        "regionType": "Continental margin"
+      },
+      {
+        "date": "2021-08-12",
+        "magnitude": 7.1,
+        "location": "South Sandwich Islands",
+        "country": "UK Territory",
+        "regionType": "Mid-ocean ridge"
+      },
+      {
+        "date": "2022-06-22",
+        "magnitude": 7.1,
+        "location": "Papua New Guinea",
+        "country": "Papua New Guinea",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2023-05-05",
+        "magnitude": 7.4,
+        "location": "Fiji region",
+        "country": "Fiji",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2015-06-17",
+        "magnitude": 7,
+        "location": "Papua New Guinea",
+        "country": "Papua New Guinea",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2016-08-24",
+        "magnitude": 7,
+        "location": "Central Italy",
+        "country": "Italy",
+        "regionType": "Continental interior"
+      },
+      {
+        "date": "2017-11-12",
+        "magnitude": 7.3,
+        "location": "Chiapas",
+        "country": "Mexico",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2018-07-07",
+        "magnitude": 7,
+        "location": "Fiji region",
+        "country": "Fiji",
+        "regionType": "Ring of Fire"
+      },
+      {
+        "date": "2019-01-19",
+        "magnitude": 7.1,
+        "location": "Alaska",
+        "country": "USA",
+        "regionType": "Subduction zone"
+      }
+    ]
+  }
+}
