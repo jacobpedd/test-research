@@ -322,7 +322,7 @@ const testConfigs = [
   {
     id: 13,
     name: "Deep Research Agents - SimpleQA Benchmark",
-    instructions: "Research deep research agents and their best SimpleQA benchmark scores. For each agent: model name, company, score, date tested, and result URL.",
+    instructions: "Research deep research agents and their best SimpleQA benchmark scores. For each agent: model name, company, score, date tested, and result URL. Provide at least 5-10 agents to ensure comprehensive coverage of top-performing models.",
     schema: {
       type: "object",
       required: ["agents"],
